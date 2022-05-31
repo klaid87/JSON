@@ -1,0 +1,7 @@
+var preferences {
+	"favoriteMovie": "Start",
+	"favoriteTvSeries": "Supernatural",
+	"favoriteFood": "CaesarSalad",
+	"favoriteTimeOfTheYear": "spring",
+	"favoriteCountry": "Italy"
+}
