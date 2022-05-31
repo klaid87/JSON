@@ -1,8 +1,8 @@
 var person {
-	firstName: 'Артём',
-	lastName: 'Насенник',
-        patronymic: 'Игоревич',
-	age: 35,
-	animals: 1,
-	salary: '3000$'
+	"firstName": "Артём",
+	"lastName": "Насенник",
+    "patronymic": 'Игоревич',
+	"age": 35,
+	"animals": 1,
+	"salary": '3000$'
 }
