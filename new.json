@@ -1,8 +1,8 @@
-var person {
+{
 	"firstName": "Артём",
 	"lastName": "Насенник",
-    "patronymic": 'Игоревич',
+    "patronymic": "Игоревич",
 	"age": 35,
 	"animals": 1,
-	"salary": '3000$'
+	"salary": "3000$"
 }

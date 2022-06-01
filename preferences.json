@@ -1,4 +1,4 @@
-var preferences {
+ {
 	"favoriteMovie": "Start",
 	"favoriteTvSeries": "Supernatural",
 	"favoriteFood": "CaesarSalad",
